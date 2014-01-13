@@ -10,7 +10,7 @@ import com.game.screens.SplashScreen;
 
 public class PartAndPortal extends Game {
 	
-	public static final String LOG = "debugging";
+	public static final String LOG = "debugging xzjixzxsafjdfjdksfhdskjlfsdhfkjldshjk";
 
 	@Override
 	public void create() {
