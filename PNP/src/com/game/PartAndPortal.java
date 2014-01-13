@@ -1,5 +1,5 @@
 
-//OMG GUYS!!!!
+//Junks stuff
 
 package com.game;
 
